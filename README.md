@@ -1,5 +1,4 @@
 # Emergency-Response-Dashboard
-# Emergency Response Dashboard
 
 ## 📊 Project Overview
 
